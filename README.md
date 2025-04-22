@@ -89,7 +89,7 @@ Google Colab Notebook File Name : HA4.ipynb
 -----------------------------------------
 You can either run it locally or open it in Colab: https://colab.research.google.com/drive/1xiDzzcJF2-OB3zxLNERcsWTMqOFdgQoq?usp=sharing
 -----------------------------------------
-VIDEO LINK: 
+VIDEO LINK: https://drive.google.com/file/d/1PteOFn_y3MdZdYjJMIcFWw5O1SqX16EK/view?usp=share_link
 
 -----------------------------------------
 
